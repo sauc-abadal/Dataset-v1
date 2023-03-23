@@ -1,11 +1,11 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+Company Name: Swift Solutions
+Sender: Jonathan King, Director of Sales
+Recipient: Amanda Lee, Sales Associate
+Subject: Performance Review Feedback
+Dear Amanda,
+I wanted to take a moment to express my appreciation for the work you have done this past year as a sales associate at Swift Solutions. Your efforts have helped drive revenue growth for the company, and your dedication to customer service is commendable.
+That being said, there are areas where you could improve. Specifically, I believe that you could benefit from honing your negotiation skills and being more proactive in seeking out new sales opportunities.
+I would encourage you to take advantage of the various training and development opportunities available to you, and to continue seeking feedback from your colleagues and supervisors. By working together, I am confident that we can help you reach your full potential as a sales professional.
+Thank you again for your hard work and dedication to the company.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+Jonathan

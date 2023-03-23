@@ -1,11 +1,12 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+Company Name: TechWave Inc.
+Sender: Karen Lee, HR Coordinator
+Recipient: Julie Johnson, New Hire
+Subject: Welcome to TechWave Inc.
+Dear Julie,
+I would like to extend a warm welcome to TechWave Inc. and congratulate you on your new role as a Software Engineer. We are excited to have you as part of our team and look forward to your contributions.
+As a new hire, you will be required to complete our onboarding process, which includes filling out some paperwork, attending orientation, and meeting with your team. Please let us know if you have any questions or concerns regarding this process.
+Once again, welcome to TechWave Inc., and we wish you all the best in your new role.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+Karen Lee
+HR Coordinator
+TechWave Inc.

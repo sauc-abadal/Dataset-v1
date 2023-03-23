@@ -1,11 +1,8 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+Company Name: BrightSpark Inc.
+Sender: Jenny Woods, Sales Manager
+Recipient: Sarah Johnson, Marketing Manager
+Subject: Request for Marketing Data
+Hi Sarah,
+I hope this email finds you well. I am working on a new sales strategy and I need some marketing data to help me make informed decisions. Could you please share with me the latest customer demographics and insights on the competition? I appreciate your help in this matter.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+Jenny Woods

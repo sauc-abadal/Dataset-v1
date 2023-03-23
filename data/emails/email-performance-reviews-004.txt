@@ -1,11 +1,10 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+From: PerformanceMax Inc. - HR Department
+To: Jane Doe
+Subject: Performance Review Results
+Dear Jane,
+I hope this email finds you well. I am writing to provide you with feedback on your performance review. Overall, we were pleased with your work in the past year. Your hard work and dedication to the company did not go unnoticed. However, there are a few areas we believe you can improve upon, including time management and communication with your team members.
+We encourage you to work on these areas and hope to see continued growth and improvement in your performance in the future.
+Please let me know if you have any questions or concerns regarding your review.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+HR Department
+PerformanceMax Inc.

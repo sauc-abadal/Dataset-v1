@@ -1,11 +1,15 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+Subject: Request for HR Policies and Procedures
+Dear HR Team,
+I am writing to request your assistance in providing me with the latest versions of our HR policies and procedures manual. As a new employee at Innovate Solutions, I want to ensure that I am familiar with our company's standards, guidelines, and expectations regarding employee performance, conduct, benefits, and development.
+I would appreciate it if you could send me the following documents in electronic format:
+Employee handbook
+Code of conduct
+Performance management policy
+Compensation and benefits policy
+Training and development policy
+Please also let me know if there are any other relevant documents or resources that you recommend for me to review, and if there are any specific procedures or deadlines that I need to follow as part of my onboarding process.
+Thank you for your assistance and support, and I look forward to working with you at Innovate Solutions.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+Michelle Wong
+Software Engineer
+Innovate Solutions

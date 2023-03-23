@@ -1,11 +1,14 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+Subject: Request for Sales Data
+Dear Sales Team,
+I am writing to request your assistance in compiling and analyzing the sales data for our Q1 performance report. As you know, this report is a critical document that informs our stakeholders, shareholders, and executives about our revenue, market share, and growth prospects, and helps us make informed decisions about our strategies and investments.
+To ensure the accuracy and completeness of the report, we need your help in providing us with the following information:
+Total sales revenue by product line and region
+Average unit price and volume sold by product line and region
+Top 5 customers by revenue and product line
+Sales trends and forecasts for the rest of the year
+Please send us the requested data in the attached spreadsheet template, and label the data with clear and consistent names and units. Please also ensure that the data is up-to-date and reflects any changes or updates since the last report.
+We appreciate your collaboration and timely response, and we look forward to a successful Q1 report. If you have any questions or concerns, please do not hesitate to contact me or the reporting team.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+John Lee
+Business Intelligence Manager
+Xenia Corporation

@@ -1,11 +1,13 @@
-Subject: Employee Training Program
-Dear all,
-We are excited to announce that we will be launching a new employee training program, which is designed to enhance the skills and knowledge of our employees and to help them grow in their careers.
-The training program will consist of a series of workshops, seminars, and online courses, covering a range of topics such as leadership, communication, project management, and technical skills. The program is open to all employees, regardless of their level or department, and it is completely free of charge.
-We believe that this training program is an important investment in our employees, and it reflects our commitment to their professional development and growth. We encourage you to take advantage of this opportunity, to learn new skills, and to enhance your career prospects.
-To register for the training program, please visit the HR portal on our company website, where you will find more information about the program and the registration process. The deadline for registration is Friday, June 30th, and the program will begin on Monday, July 10th.
-Thank you for your attention, and we look forward to a successful training program.
+Company Name - Fresh Bites
+Sender - Sarah Lee, Customer Service Manager
+Recipient - Jane Smith, Customer
+Subject: Your recent visit to Fresh Bites
+Dear Jane,
+Thank you for visiting Fresh Bites and sharing your feedback with us. We are sorry to hear that you were not satisfied with your experience.
+Please accept our sincere apologies for the inconvenience caused. We value your feedback and we are committed to providing the best possible service to our customers.
+We would like to offer you a complimentary meal on your next visit as a gesture of goodwill. Please let us know if this is acceptable and we will send you a voucher that you can use at any of our restaurants.
+Thank you for your understanding and we look forward to serving you again.
 Best regards,
-Maria Rodriguez
-Training and Development Manager
-Peak Performance Solutions
+Sarah Lee
+Customer Service Manager
+Fresh Bites

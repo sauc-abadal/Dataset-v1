@@ -1,6 +1,8 @@
 /conda-env/
 /data/docile
 /data/open4business
+/data/emails/*.rtf
+/data/emails/converter.py
 OPEN_AI_key.txt
 
 .DS_Store

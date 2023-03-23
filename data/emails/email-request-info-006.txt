@@ -1,0 +1,9 @@
+Company Name: Ocean Breeze Ltd.
+Sender: Michael Scott, Operations Manager
+Recipient: Karen Lee, Procurement Manager
+Subject: Request for Supplier Information
+Hi Karen,
+I hope this email finds you well. I am currently working on a cost optimization project and I need some supplier information to help me make informed decisions. Could you please provide me with a list of our current suppliers, their product lines, and the average lead time for delivery? Thank you for your cooperation.
+Best regards,
+Michael Scott
+

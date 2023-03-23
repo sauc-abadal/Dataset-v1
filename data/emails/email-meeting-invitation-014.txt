@@ -1,0 +1,18 @@
+Subject: Daily Scrum Meeting Schedule
+Dear Team,
+I hope this email finds you well. As we continue to work on our project, I wanted to remind everyone of the importance of our daily Scrum meetings.
+Starting next week, we will be having our daily Scrum meetings every morning from Monday to Friday at 9:30 am in the conference room on the 3rd floor. These meetings are a key part of our Agile development process and will help us stay on track and maintain effective communication throughout the project.
+The purpose of the daily Scrum meeting is for each team member to briefly share their progress from the previous day, plans for the current day, and any obstacles they are facing. This meeting is not meant to be a detailed update or status report, but rather a quick check-in to ensure everyone is aligned and on track.
+To make the most of our time, please come prepared with your updates and be on time for the meeting. The meeting will be facilitated by our Scrum Master, Jane Doe, who will help us stay focused and on schedule.
+Here is the agenda for the daily Scrum meeting:
+Introductions and welcome (Jane Doe)
+Progress report from each team member
+Plans for the day
+Identification and resolution of any obstacles or blockers
+Closing remarks (Jane Doe)
+If you have any questions or concerns, please don't hesitate to reach out to me or Jane.
+Thank you, and I look forward to seeing you all at our daily Scrum meetings.
+Best regards,
+Alex Kim
+Project Manager
+Zenith Innovations

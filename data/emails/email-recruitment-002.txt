@@ -1,0 +1,11 @@
+Company Name: NexaTech Inc.
+Sender: Sarah Johnson, HR Manager
+Recipient: John Parker, Applicant
+Subject: Interview Invitation
+Dear John,
+We are pleased to inform you that your application for the position of Software Developer at NexaTech Inc. has been shortlisted. We were impressed by your qualifications and experience, and we believe you would be a great fit for our company.
+We would like to invite you to an interview at our office on Wednesday, April 3rd, 2023, at 10:00 am. Please let us know if this time is convenient for you. In the meantime, if you have any questions or concerns, please feel free to contact us.
+Best regards,
+Sarah Johnson
+HR Manager
+NexaTech Inc.

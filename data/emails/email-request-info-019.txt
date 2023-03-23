@@ -1,0 +1,9 @@
+Company Name: SilverStone Inc.
+Sender: John Kim, Sales Manager
+Recipient: Amy Lee, Customer Service Manager
+Subject: Request for Customer Feedback
+Dear Amy,
+I hope this email finds you well. As part of our ongoing efforts to improve customer satisfaction, I would like to request some customer feedback data. Could you please provide me with the latest customer satisfaction ratings, including Net Promoter Scores and Customer Effort Scores? Additionally, I require a summary of the most common customer complaints and how we can address them.
+Your assistance in this matter is much appreciated, and I look forward to hearing from you soon.
+Best regards,
+John Kim

@@ -1,0 +1,17 @@
+Subject: Reminder - Daily Stand-up Meeting
+Dear Team,
+I would like to remind everyone that we will be having our daily stand-up meeting at 10:00 am every weekday, starting from tomorrow. The meeting will take place in the conference room on the 4th floor.
+As we discussed in our previous meeting, the purpose of the daily stand-up is to keep everyone informed about the progress of the project and to identify any issues or concerns that need to be addressed. Each team member will have a chance to share their progress, plans for the day, and any obstacles they are facing.
+To make the most of our time, please come prepared with your updates and be on time for the meeting. The meeting should last no more than 15 minutes, so please be concise and to the point. Our Scrum Master, John Smith, will be leading the meeting and keeping us on track.
+Here is the agenda for the daily stand-up:
+Welcome and introduction (John Smith)
+Progress report from each team member
+Plans for the day
+Identification and resolution of any obstacles or blockers
+Closing remarks (John Smith)
+If you have any questions or concerns, please don't hesitate to reach out to me or John.
+Thank you, and I look forward to seeing you all tomorrow.
+Best regards,
+Samantha Lee
+Project Manager
+InnovateWorks Inc.

@@ -1,0 +1,9 @@
+Company Name: Sunrise Corp.
+Sender: David Kim, Finance Manager
+Recipient: Emily Lee, Accounting Manager
+Subject: Request for Financial Data
+Dear Emily,
+I hope this email finds you well. As part of our year-end financial review, I need some data from the accounting department. Could you please provide me with the latest balance sheet and income statement? In addition, I require a breakdown of our expenses by department for the past quarter and any updates on our cash flow projections.
+Your assistance in this matter is much appreciated, and I look forward to hearing from you soon.
+Best regards,
+David Kim
